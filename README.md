@@ -63,8 +63,8 @@
 ![Screenshot 2024-10-14 230413](https://github.com/user-attachments/assets/17ee0936-43af-4480-a5e4-5a4bd8562d64)
 
 
-### Name: DEVA ABISHEK P
-### Register Number: 212223110008
+### Name: Vikaash P
+### Register Number: 212223240180
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
